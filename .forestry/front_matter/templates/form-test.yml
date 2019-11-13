@@ -1,4 +1,10 @@
 ---
 label: Form test
 hide_body: false
-fields: []
+fields:
+- name: email
+  type: include
+  config: {}
+  template: form-test
+  label: Email
+  description: Enter your email address
