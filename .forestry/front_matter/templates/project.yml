@@ -35,6 +35,13 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: blocks
+  type: blocks
+  label: BLocks
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - projects/this-is-a-tree.md
 - projects/chelsea-landmark.md
