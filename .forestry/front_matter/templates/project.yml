@@ -43,8 +43,8 @@ fields:
     min: 
     max: 
 pages:
+- projects/sunk.md
 - projects/this-is-a-tree.md
 - projects/chelsea-landmark.md
 - projects/3d-graff.md
 - projects/ios-concept.md
-- projects/sunk.md
